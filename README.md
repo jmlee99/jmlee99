@@ -14,7 +14,7 @@
 <div align="center">
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Stack -->
-    <p><strong>📚 Tech Stack </strong></p>
+    <p><strong>📚 Tech Stacks </strong></p>
     <div>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">    
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=white">
