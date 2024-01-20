@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"><br/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
   <br/>
+  <br/>
 
 
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -35,7 +36,8 @@
     <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white">
     <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white">
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-
+     <br/>
+  <br/>
 
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Stack -->
