@@ -1,16 +1,29 @@
-## 👋 Hi! I'm JaeMin!
+<div align="center">
+
+  ## 👋 Hi! I'm JaeMin!
+
+  **잘못된 것으로 가득 채우기 보다는 빈공간을 채워가자!**
 
 <br/>
+
+**이력서 :**
+[jmlee99 이력서](https://jmlee99.github.io/Jmlee99-resume/)
+
+**포트폴리오 :**
+[jmlee99 포트폴리오](https://github.com/jmlee99/Portfolio)
+
 <br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjmlee99&count_bg=%23F0A5F9&title_bg=%23828282&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmlee99&show_icons=true&theme=buefy)
+
+</div>
+
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 <div align="center">
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
