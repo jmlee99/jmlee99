@@ -6,9 +6,6 @@
 
 <br/>
 
-**이력서 :**
-[jmlee99 이력서](https://jmlee99.github.io/Jmlee99-resume/)
-
 **포트폴리오 :**
 [jmlee99 포트폴리오](https://github.com/jmlee99/Portfolio)
 
