@@ -1,8 +1,6 @@
 <div align="center">
 
-  # 👋 Hi! I'm JaeMin!
-  
-  **잘못된 것으로 가득 채우기 보다는 빈공간을 채워가자!**
+**  # 👋 Hi! I'm JaeMin! **
 
 <br/>
 
