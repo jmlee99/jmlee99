@@ -1,6 +1,6 @@
 <div align="center">
 
-**  # 👋 Hi! I'm JaeMin! **
+  # 👋 Hi! I'm JaeMin! 
 
 <br/>
 
